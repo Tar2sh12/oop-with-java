@@ -1,0 +1,4 @@
+You have bug assigned bug name: bug2
+You have bug assigned bug name: bug2
+You have bug assigned bug name: bug
+You have bug assigned bug name: bug4

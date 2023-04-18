@@ -1,0 +1,9 @@
+com\mycompany\bugtestingsystem\Bug.class
+com\mycompany\bugtestingsystem\Person.class
+com\mycompany\bugtestingsystem\BugTestingSystem.class
+com\mycompany\bugtestingsystem\FilePath.class
+com\mycompany\bugtestingsystem\FileHandler.class
+com\mycompany\bugtestingsystem\ProjectManager.class
+com\mycompany\bugtestingsystem\Admin.class
+com\mycompany\bugtestingsystem\Developer.class
+com\mycompany\bugtestingsystem\Tester.class
